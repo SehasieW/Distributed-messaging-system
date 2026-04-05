@@ -1,5 +1,4 @@
-# time_sync.py - IT24104006 
-# Member 3: J. W. C. Jananjana - Time Synchronization
+# End of time_sync module - IT24104006
 
 import time, requests, uuid, threading
 from datetime import datetime
