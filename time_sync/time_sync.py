@@ -1,5 +1,9 @@
-# time_sync.py - IT24104006 
+# time_sync.py 
 # Member 3: J. W. C. Jananjana - Time Synchronization
+
+# IT24104006 - J. W. C. Jananjana
+# Module: Time Synchronization
+# Description: NTP clock sync, Lamport timestamps, message reordering
 
 import time, requests, uuid, threading
 from datetime import datetime
