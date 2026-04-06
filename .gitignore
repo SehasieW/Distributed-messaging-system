@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+server1_data.json
+server2_data.json
+server3_data.json
